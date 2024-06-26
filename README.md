@@ -43,6 +43,3 @@ Develop a machine learning model to predict whether a customer is likely to leav
 
 - Summary of the results and key findings from the project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
